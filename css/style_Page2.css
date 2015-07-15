@@ -263,7 +263,7 @@ header {
 }
 
 .Big-bridge a:nth-child(2) {
-	background: url(file:///C:/Макеты/markup/img/leftarrow.png);
+	background: url(../img/leftarrow.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-color: #363339;
@@ -271,7 +271,7 @@ header {
 }
 
 .Big-bridge a:nth-child(3) {
-	background: url(file:///C:/Макеты/markup/img/rightarrow.png);
+	background: url(../img/rightarrow.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-color: #363339;
@@ -341,7 +341,7 @@ header {
 }
 
 .GM>a:first-child:hover .RBtriangle{
-	background: url(file:///C:/Макеты/markup/img/OThailand.png);
+	background: url(../img/OThailand.png);
 	background-position: -19px -85px;
 }
 
@@ -354,7 +354,7 @@ header {
 	position: absolute;
 	height: 76px;
 	width: 76px;
-	background: url(file:///C:/Макеты/markup/img/Thailand.png);
+	background: url(../img/Thailand.png);
 	background-repeat: no-repeat;
 	background-position: -19px -85px;
 	bottom: 483px;
@@ -394,7 +394,7 @@ header {
 	display: block;
 	height: 16px;
 	width: 15px;
-	background: url("file:///C:/Макеты/markup/img/darkplus.png");
+	background: url("../img/darkplus.png");
 	background-repeat: no-repeat;
 	margin: 0 13px 0 0px;
 	box-sizing: content-box;
@@ -403,7 +403,7 @@ header {
 }
 
 .WHDplus:hover {
-	background: url("file:///C:/Макеты/markup/img/hoverDarkPlus(2).png");
+	background: url("../img/hoverDarkPlus(2).png");
 	background-repeat: no-repeat;
 }
 
